@@ -1,3 +1,4 @@
-var message=hello;
+var message="hello";
+var bnj = "bonjours";
 alert(message);
-alert("bonjour ");
+alert(bnj);
